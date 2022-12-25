@@ -39,7 +39,7 @@ Log into microsoft azure and create a resource group. Once you creaed your resou
 <img src="https://i.imgur.com/MUcAycD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sign into remote desktop by using the user name and password you set up in the VM. Open explorer page and download Wireshark application windows installer (64-bit). When download is complete open up wireshark and click the ethernet adapter and than click on the blue shark fin icon. This will show you the live traffic on the VM. Now yo will be able to use windows powershell application to ping from one VM to the other by using the Private IP address associated with the linux vm.
+Sign into remote desktop by using the user name and password you set up in the VM. Open explorer page and download Wireshark application windows installer (64-bit). When download is complete open up wireshark and click the ethernet adapter and than click on the blue shark fin icon. This will show you the live traffic on the VM. Now you will be able to use windows powershell application to ping from one VM to the other by using the Private IP address associated with the linux vm.
 </p>
 <p>
 <img src="https://i.imgur.com/4TtaYVK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
